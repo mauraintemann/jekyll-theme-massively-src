@@ -3,7 +3,7 @@ layout: post
 title:  "PARTY LIKE IT'S 1992"
 date:   2018-9-28
 excerpt: "I went one day without Googling anything, and you can too!"
-image: "x files mist.jpeg"
+image: "xfilesmist.jpeg"
 ---
  ## GOING NO-DIGITAL
 
