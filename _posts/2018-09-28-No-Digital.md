@@ -3,7 +3,7 @@ layout: post
 title:  "PARTY LIKE IT'S 1992"
 date:   2018-9-28
 excerpt: "I went one day without Googling anything, and you can too!"
-image: "xfilesmist.jpeg"
+image: "xfilesmist.png"
 ---
 
 When I was preparing for my No-Digital Day experiment, I saw it as a welcome opportunity to reflect on the role of technology in my life. I did not expect it to be too hard, as I like to think I am less addicted to technology than most. But what I did not realize was just how much I use technology outside of just social media and communicating with friends. These realizations began the very moment I woke up in my self-constructed alternate reality of 1992.  
