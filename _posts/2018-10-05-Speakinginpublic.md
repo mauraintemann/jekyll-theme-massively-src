@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PUBLIC WRITING AND ACTIVE CITIZENSHIP"
-date:   2018-9-21
+date:   2018-10-05
 excerpt: "Speaking and Annemarie Perez's *UndocuDreamers*"
 image: "/images/dreamer.png"
 ---
