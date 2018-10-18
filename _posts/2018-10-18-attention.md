@@ -3,7 +3,7 @@ layout: post
 title:  "CLICK HERE NOW OR ELSE"
 date:   2018-10-18
 excerpt: "Love in the Attention Economy"
-image: "/images/"
+image: "/images/ladybird.png"
 ---
 
 “Attention, at least the kind we care about, is an intrinsically scarce resource,” according to Michael Goldhaber in his 1997 piece, *The Attention Economy: the Natural Economy of the Net.* This is the cornerstone of the Internet’s attention economy, where information is abundant, and therefore the capital that pushes the system is the information’s ability to demand attention. This reality has become evermore salient in 2018 than it had been in 1997, when the Internet was very, *very* different. Now, our browsing, shopping, and even our news has been rewired by the attention economy, with companies and media outlets often sacrificing truth and authenticity for a grabby title. It’s interesting that something so personal as attention has become so readily exploitable by businesses and corporations. I’m reminded of a scene from one of my favorite movies, Greta Gerwig’s *Lady Bird*. In it, high school senior Christine (aka Lady Bird) is talking to her Catholic school advisor about her college essay, in which she writes about her home town of Sacramento, a place she’s sworn to move far away from.   
