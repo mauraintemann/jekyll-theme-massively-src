@@ -8,17 +8,17 @@ image: "/images/ladybird.png"
 
 “Attention, at least the kind we care about, is an intrinsically scarce resource,” according to Michael Goldhaber in his 1997 piece, *The Attention Economy: the Natural Economy of the Net.* This is the cornerstone of the Internet’s attention economy, where information is abundant, and therefore the capital that pushes the system is the information’s ability to demand attention. This reality has become evermore salient in 2018 than it had been in 1997, when the Internet was very, *very* different. Now, our browsing, shopping, and even our news has been rewired by the attention economy, with companies and media outlets often sacrificing truth and authenticity for a grabby title. It’s interesting that something so personal as attention has become so readily exploitable by businesses and corporations. I’m reminded of a scene from one of my favorite movies, Greta Gerwig’s *Lady Bird*. In it, high school senior Christine (aka Lady Bird) is talking to her Catholic school advisor about her college essay, in which she writes about her home town of Sacramento, a place she’s sworn to move far away from.   
 
-*Sister Sarah Joan: You clearly love Sacramento.
+*Sister Sarah Joan: You clearly love Sacramento.*
   
-*Lady Bird: I do?
+*Lady Bird: I do?*
 
-*Sister Sarah Joan: You write about Sacramento so affectionately and with such care.
+*Sister Sarah Joan: You write about Sacramento so affectionately and with such care.*
 
-*Lady Bird: I was just describing it.
+*Lady Bird: I was just describing it.*
 
-*Sister Sarah Joan: Well it comes across as love.
+*Sister Sarah Joan: Well it comes across as love.*
 
-*Lady Bird: Sure, I guess I pay attention.
+*Lady Bird: Sure, I guess I pay attention.*
 
 *Sister Sarah Joan: Don't you think maybe they are the same thing? Love and attention?*
 
