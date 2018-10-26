@@ -2,7 +2,7 @@
 layout: post
 title:  "THE DIGITIZATION OF EMOTIONAL LABOR"
 date:   2018-10-26
-excerpt: "Are reaction GIFs runining our humanity?"
+excerpt: "Are reaction GIFs ruining our humanity?"
 image: "/images/emotional.jpg"
 ---
 
