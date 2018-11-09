@@ -2,8 +2,9 @@
 layout: post
 title:  "BLACK MIRROR AND THE DIGITAL AFTERLIFE"
 date:   2018-11-9
-excerpt: ""
-image: "/images/"
+excerpt: "“You don't have to live forever, you just have to live.” 
+― Natalie Babbitt"
+image: "/images/subline.jpg"
 ---
 
   In “Be Right Back,” the first episode of *Black Mirror*’s second series, Martha is able to resurrect her late husband Ash using AI technology that synthesizes his digital footprint in order to imitate his voice, face, and personality. Throughout the episode, she struggles with her immeasurable grief and the AI’s inability to fully replicate her husband, highlighting the discrepancy between his digital self and his true self. In one of the show’s most poignant performances, Martha commands the AI to throw himself off a cliff, bitterly crying, “You're just a few ripples of you. There's no history to you. You're just a performance of stuff that he performed without thinking, and it's not enough.” In the end, Martha is unable to part with the AI, no doubt manipulated by the flawed, but vivid representation of her late husband. In true *Black Mirror* fashion, we are presented with a bleak projection of our possible future. This future is certainly realistic; it’s not hard to imagine AI manufactures honing in on desperate widows as a market for this kind of service, nor is it hard to imagine our increasingly abundant online data being extrapolated to represent our whole selves. But this is not *Black Mirror*’s only episode that gets to the heart of this nuanced idea of the digital afterlife. 
