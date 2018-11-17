@@ -2,8 +2,8 @@
 layout: post
 title:  "UNCANNY A.I."
 date:   2018-11-16
-excerpt: ""
-image: "/images/"
+excerpt: "Tamagotchi will take over the world or maybe they already have."
+image: "/images/uncanny.jpeg"
 ---
 
 In “The Lifecycle of Software Objects,” Ted Chiang imagines a future where “digients,” animal-like A.I. that learn and emote, accompany humans in virtual worlds of our creation. The desire for such technology does not seem so unfounded; the digients are almost reminiscent of overgrown, talking Tamagotchi. But while Tamagotchi are comprised of a couple dozen 2D pixels, Chiang’s digients are 3D, operating on the same virtual plane as the 3D avatars of the humans within the virtual world, even allowed to occasionally inhabit real-world robotic bodies. In the story, software designer Derek discusses creating the aesthetics of these A.I., trying to find a balance within the uncanny valley of cute and off-putting. 
