@@ -2,7 +2,7 @@
 layout: post
 title:  "PLAYING LITERATURE"
 date:   2018-11-30
-excerpt: "I picked up every highlighter in *Gone Home*"
+excerpt: "I picked up every highlighter in <i>Gone Home</i>"
 image: "/images/starship.jpeg"
 ---
 
